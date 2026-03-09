@@ -6,7 +6,7 @@ Ansible Role for CIS Red Hat Enterprise Linux 8 Benchmark for Level 2 - Workstat
 Profile Description:  
 This profile defines a baseline that aligns to the "Level 2 - Workstation"  
 configuration from the Center for Internet Security® Red Hat Enterprise  
-Linux 8 Benchmark™, v3.0.0, released 2023-10-30.  
+Linux 8 Benchmark™, v4.0.0, released 2025-08-28.  
 This profile includes Center for Internet Security®  
 Red Hat Enterprise Linux 8 CIS Benchmarks™ content.
 
